@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Here's my main GitHub account: https://github.com/shrihari-prakash
+
 <!--
 **shrihari-prakasam/shrihari-prakasam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
